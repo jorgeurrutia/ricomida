@@ -1,0 +1,60 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.navbar{
+    background-color: #373A3C;
+}
+
+.titulo{
+    font-weight: bold;
+}
+
+hr{
+    border: 1px solid #000000;
+}
+
+.subtitulo{
+    font-weight: bold;
+}
+
+.btn-principal{
+    border-color: #DDDDDD;
+}
+
+.carousel{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.carousel-indicators{
+    top: 108%;
+}
+
+.carousel-indicators button {
+    width: 13px !important;
+    height: 13px !important;
+    border-radius: 50%;
+    background-color: #373A3C !important;
+}
+.newsletter{
+    background-color: #DC3545;
+    height: 538px;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+
+.ricomida{
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    color: #FFFFFF;
+}
+
+.footer{
+    background-color: #373A3C;
+}
+
+.alerta{
+    color: #DC3545;
+}
